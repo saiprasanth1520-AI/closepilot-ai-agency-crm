@@ -1,4 +1,4 @@
-# Lumina - Ad Agency CRM
+# ClosePilot - AI-Powered Ad Agency CRM
 
 A production-grade CRM built specifically for advertising agencies. Manage your pipeline, track campaigns, and close deals faster with intelligent automation and an AI-powered agent.
 
@@ -17,7 +17,7 @@ A production-grade CRM built specifically for advertising agencies. Manage your 
 ```bash
 # 1. Clone the repo
 git clone <your-repo-url>
-cd lumina-agency-crm
+cd closepilot-ai-agency-crm
 
 # 2. Install dependencies
 npm install --legacy-peer-deps
